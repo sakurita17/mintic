@@ -11,10 +11,10 @@ Crear una aplicación WEB bajo entorno de código libre, para optimizar el proce
 ```
 # Objetivos específicos
 ```
-•	Realizar el análisis de los requerimientos propios de los procesos de compras de una empresa dedicada a cultivos agrícolas que permitan identificar las necesidades de sistematización, mediante el uso de diagramas del lenguaje de modelo unificado UML, teniendo como base el proceso de compras, generación de requerimientos de compras y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras.
-•	Diseñar una arquitectura de datos que integre la información y procesos almacenados necesarios para el manejo de los módulos de generación de requerimientos y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras.
-•	Realizar el modelado de cada uno de los procesos involucrados en los módulos generación de requerimientos y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras.
-•	Programar los módulos generación de requerimientos y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras mediante el uso de tecnologías libres y metodologías acorde al desarrollo de aplicaciones bajo entorno WEB.
+•Realizar el análisis de los requerimientos propios de los procesos de compras de una empresa dedicada a cultivos agrícolas que permitan identificar las necesidades de sistematización, mediante el uso de diagramas del lenguaje de modelo unificado UML, teniendo como base el proceso de compras, generación de requerimientos de compras y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras.
+•Diseñar una arquitectura de datos que integre la información y procesos almacenados necesarios para el manejo de los módulos de generación de requerimientos y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras.
+•Realizar el modelado de cada uno de los procesos involucrados en los módulos generación de requerimientos y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras.
+•Programar los módulos generación de requerimientos y adquisiciones, cotizaciones, adjudicación de la compra y recepción de las compras mediante el uso de tecnologías libres y metodologías acorde al desarrollo de aplicaciones bajo entorno WEB.
 ```
 
 # Jira
